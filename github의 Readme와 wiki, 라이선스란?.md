@@ -28,7 +28,7 @@ Wiki는 저장소에서 프로젝트의 로드맵을 나열하고, 현재 상태
 저작권자의 독점 사용 권리에 대해, 저작권자/사용자 간의 이용 방법 및 조건 범위를 명시해 둔 사용 허가권으로 오픈소스 사용 및 배포 시 지켜야할 규칙들을 의미한다.
 
 # LICENSE 확인 방법
-오픈소스 라이선스 검증도구 (ex)Olive,FOSSID 등을 이용하여 이용된 LICENSE를 확인하고 본인에게 적절한 LICENSE를 등록한다.
+오픈소스 라이선스 검증도구 Olive,FOSSID 등을 이용하여 이용된 LICENSE를 확인하고 본인에게 적절한 LICENSE를 등록한다.
 # LICENSE 등록 방법
 1. 라이선스 파일을 등록하고자하는 Repository로 가서 Create new file 버튼을 클릭한다
 2. 파일 명에 LICENSE를 입력하면 생기는 Chooselicense templelate 버튼을 클릭한다.
